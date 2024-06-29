@@ -28,7 +28,7 @@ Welcome to my world of innovation at the intersection of electronics, cybersecur
 
 ### DevOps & Security Arsenal
 
-- **DevOps Tools:** GitLab, Jenkins, Docker, Kubernetes, Helm, Ansible
+- **DevOps Tools:** GitLab, Jenkins, Harbor, Kubernetes, Helm, Ansible
 - **Cloud & Virtualization:** AWS (EC2, S3, IAM), Proxmox, VMware, ESXI
 - **Security:** DevSecOps practices, LDAP, Syslog-NG, Burp Suite
 - **Containers:** Docker, LXC (Linux Containers)
