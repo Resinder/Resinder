@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there! 👋
 
-Welcome to my world of innovation at the intersection of electronics, cybersecurity, and DevOps! I'm Utkan Sevimli, a seasoned DevOps & DevSecOps Engineer with a deep passion for automating software pipelines and fortifying systems against cyber threats.
+Welcome to my world of innovation at the intersection of electronics, cybersecurity, and DevOps! I'm a seasoned DevOps & DevSecOps Engineer with a deep passion for automating software pipelines and fortifying systems against cyber threats.
 
 - 🌱 Currently delving deeper into Kubernetes and Docker to optimize cloud-native environments.
 - 👯 Open to collaborating on CI/CD, infrastructure as code, and cybersecurity projects.
