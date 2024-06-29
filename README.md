@@ -59,4 +59,4 @@ I'm deeply passionate about cybersecurity, constantly exploring new methodologie
 
 Let's connect and explore the convergence of DevOps, cybersecurity, and artificial intelligence!
 
-![GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+![Animated GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
