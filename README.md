@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, World! 🌍
+# Hello, World! 👋
 
-Welcome to my world of DevOps, cybersecurity, and cutting-edge technology! As a seasoned DevOps & DevSecOps Engineer with a passion for innovation and secure deployments, I thrive on automating software pipelines and exploring the realms of artificial intelligence.
+Welcome to my world of innovation at the intersection of electronics, cybersecurity, and DevOps! I'm Utkan, a seasoned DevOps & DevSecOps Engineer with a deep passion for automating software pipelines and fortifying systems against cyber threats.
 
-- 🌱 Currently exploring Kubernetes and Docker to optimize cloud-native environments.
+- 🌱 Currently diving deeper into Kubernetes and Docker to optimize cloud-native environments.
 - 👯 Open to collaborating on CI/CD, infrastructure as code, and cybersecurity projects.
-- 💬 Let's chat about GitLab, Jenkins, Docker, Kubernetes, and the fascinating intersection of AI and DevOps!
+- 💬 Let's discuss GitLab, Jenkins, Docker, Kubernetes, and the exciting blend of AI in DevOps!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/utkans) for professional opportunities and industry insights.
 
 ## Skills & Expertise 🛠️
@@ -33,22 +33,30 @@ Welcome to my world of DevOps, cybersecurity, and cutting-edge technology! As a 
 - **Security:** DevSecOps practices, LDAP, Syslog-NG, Burp Suite
 - **Containers:** Docker, LXC (Linux Containers)
 - **Monitoring & Metrics:** Telegraf, InfluxDB, Grafana
-- **Penetration Testing:** Experienced with Burp Suite for web app security testing
+- **Embedded Systems:** Raspberry Pi, Arduino, ESP8266, NodeMCU, PIC 16F877A
+- **Penetration Testing:** Proficient in Burp Suite for web app security testing
 
 ### Programming & Automation
 
 - **Programming Languages:** Python, Node.js, Java
-- **AI & ML Frameworks:** TensorFlow, PyTorch (Exploring in DevOps)
+- **AI & ML Frameworks:** TensorFlow, PyTorch (Exploring in DevOps applications)
 - **Testing & QA:** Selenium, Apache JMeter, Postman
 - **Databases:** MongoDB, PostgreSQL, InfluxDB
-- **Operating Systems:** Proficient in Linux (Debian-based distros), passionate about system admin and security hardening
+- **Operating Systems:** Expert in Linux (Debian-based distros), passionate about system admin and security hardening
 
 ## Cybersecurity & Linux Enthusiast 🔒🐧
 
-I'm deeply passionate about cybersecurity, constantly exploring new methodologies and tools to fortify systems against emerging threats. Linux and LXC are my playground for robust system administration, automation, and secure container deployments.
+I'm deeply passionate about cybersecurity, constantly exploring new methodologies and tools to fortify systems against emerging threats. Linux is my playground for robust system administration, automation, and secure container deployments.
 
 ## GitHub Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resinder&show_icons=true&theme=dark)
 
-Let's connect and dive deep into the world of DevOps, cybersecurity, and artificial intelligence!
+## Let's Connect! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkans)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/resinder)
+
+Let's connect and explore the convergence of DevOps, cybersecurity, and artificial intelligence!
+
+![GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
