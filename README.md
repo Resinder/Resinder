@@ -15,23 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋
+# Hello, World! 🌍
 
-I'm passionate about leveraging technology to drive innovation and enhance cybersecurity measures. As a seasoned DevOps & DevSecOps Engineer with a background in electrical and electronics engineering, I thrive on automating software delivery pipelines and ensuring secure deployments.
+Welcome to my world of DevOps, cybersecurity, and cutting-edge technology! As a seasoned DevOps & DevSecOps Engineer with a passion for innovation and secure deployments, I thrive on automating software pipelines and exploring the realms of artificial intelligence.
 
-- 🌱 Currently diving deeper into Kubernetes and Docker to optimize cloud-native environments.
-- 👯 Eager to collaborate on projects involving CI/CD, infrastructure as code, and cybersecurity solutions.
-- 💬 Let's chat about GitLab, Jenkins, Docker, Kubernetes, cybersecurity best practices, and how AI is transforming DevOps!
+- 🌱 Currently exploring Kubernetes and Docker to optimize cloud-native environments.
+- 👯 Open to collaborating on CI/CD, infrastructure as code, and cybersecurity projects.
+- 💬 Let's chat about GitLab, Jenkins, Docker, Kubernetes, and the fascinating intersection of AI and DevOps!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/utkans) for professional opportunities and industry insights.
 
 ## Skills & Expertise 🛠️
 
-### DevOps & Security Tools
+### DevOps & Security Arsenal
 
 - **DevOps Tools:** GitLab, Jenkins, Docker, Kubernetes, Helm, Ansible
 - **Cloud & Virtualization:** AWS (EC2, S3, IAM), Proxmox, VMware, ESXI
 - **Security:** DevSecOps practices, LDAP, Syslog-NG, Burp Suite
-- **Penetration Testing:** Experience with Burp Suite for web app security testing
+- **Containers:** Docker, LXC (Linux Containers)
+- **Monitoring & Metrics:** Telegraf, InfluxDB, Grafana
+- **Penetration Testing:** Experienced with Burp Suite for web app security testing
 
 ### Programming & Automation
 
@@ -43,10 +45,10 @@ I'm passionate about leveraging technology to drive innovation and enhance cyber
 
 ## Cybersecurity & Linux Enthusiast 🔒🐧
 
-I'm deeply passionate about cybersecurity, constantly exploring new methodologies and tools to fortify systems against emerging threats. Linux is my playground for robust system administration, automation, and security enhancement.
+I'm deeply passionate about cybersecurity, constantly exploring new methodologies and tools to fortify systems against emerging threats. Linux and LXC are my playground for robust system administration, automation, and secure container deployments.
 
 ## GitHub Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resinder&show_icons=true&theme=dark)
 
-Let's connect and explore the exciting world of DevOps, cybersecurity, and artificial intelligence together!
+Let's connect and dive deep into the world of DevOps, cybersecurity, and artificial intelligence!
