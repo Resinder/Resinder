@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello, World! 👋
+# Hi there! 👋
 
-Welcome to my world of innovation at the intersection of electronics, cybersecurity, and DevOps! I'm Utkan, a seasoned DevOps & DevSecOps Engineer with a deep passion for automating software pipelines and fortifying systems against cyber threats.
+Welcome to my world of innovation at the intersection of electronics, cybersecurity, and DevOps! I'm Utkan Sevimli, a seasoned DevOps & DevSecOps Engineer with a deep passion for automating software pipelines and fortifying systems against cyber threats.
 
-- 🌱 Currently diving deeper into Kubernetes and Docker to optimize cloud-native environments.
+- 🌱 Currently delving deeper into Kubernetes and Docker to optimize cloud-native environments.
 - 👯 Open to collaborating on CI/CD, infrastructure as code, and cybersecurity projects.
 - 💬 Let's discuss GitLab, Jenkins, Docker, Kubernetes, and the exciting blend of AI in DevOps!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/utkans) for professional opportunities and industry insights.
@@ -44,19 +44,21 @@ Welcome to my world of innovation at the intersection of electronics, cybersecur
 - **Databases:** MongoDB, PostgreSQL, InfluxDB
 - **Operating Systems:** Expert in Linux (Debian-based distros), passionate about system admin and security hardening
 
-## Cybersecurity & Linux Enthusiast 🔒🐧
+## DevOps Expertise 🚀
 
-I'm deeply passionate about cybersecurity, constantly exploring new methodologies and tools to fortify systems against emerging threats. Linux is my playground for robust system administration, automation, and secure container deployments.
+I thrive on designing and automating robust CI/CD pipelines and infrastructure as code deployments. My experience spans cloud-native environments, secure containerization, and implementing DevSecOps best practices. Let's collaborate to streamline your software delivery lifecycle and enhance system reliability.
 
 ## GitHub Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resinder&show_icons=true&theme=dark)
 
-## Let's Connect! 🚀
+## Let's Connect! 🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkans)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/resinder)
 
-Let's connect and explore the convergence of DevOps, cybersecurity, and artificial intelligence!
+Let's connect and innovate in the realms of DevOps, cybersecurity, and artificial intelligence!
 
 ![Animated GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+
+Check out my homepage at [Srenity Online](https://www.srenity.online) - where even your pipeline being GREEN is cause for celebration!
