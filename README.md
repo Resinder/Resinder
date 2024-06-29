@@ -48,9 +48,13 @@ Welcome to my world of innovation at the intersection of electronics, cybersecur
 
 I thrive on designing and automating robust CI/CD pipelines and infrastructure as code deployments. My experience spans cloud-native environments, secure containerization, and implementing DevSecOps best practices. Let's collaborate to streamline your software delivery lifecycle and enhance system reliability.
 
+<!--
+
 ## GitHub Stats 📈
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resinder&show_icons=true&theme=dark)
+
+-->
 
 ## Let's Connect! 🌐
 
