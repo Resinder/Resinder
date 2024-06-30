@@ -60,14 +60,16 @@ I thrive on designing and automating robust CI/CD pipelines and infrastructure a
 ## Let's Connect! 🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkans)
-[![ORCID iD](https://orcid.org/0009-0003-8914-6478)](https://orcid.org/0009-0003-8914-6478)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/resinder)
+
+<!--
+[![Avatar](https://avatars.githubusercontent.com/u/Resinder?v=4)](https://github.com/Resinder)
+[![ORCID iD](https://orcid.org/0009-0003-8914-6478)](https://orcid.org/0009-0003-8914-6478)
+-->
 
 Let's connect and innovate in the realms of DevOps, cybersecurity, and artificial intelligence!
 
 ![Animated GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
-[![Avatar](https://avatars.githubusercontent.com/u/Resinder?v=4)](https://github.com/Resinder)
 
-
-Check out my homepage at [Srenity Online](https://www.srenity.online) - where even your pipeline being GREEN is cause for celebration!
+Explore DevOps practices to enhance your operations. Even your pipeline is GREEN at [Srenity Online](https://www.srenity.online)!
