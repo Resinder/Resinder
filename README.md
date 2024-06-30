@@ -15,6 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!--
+
+## GitHub Stats 📈
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resinder&show_icons=true&theme=dark)
+
+-->
+
 # Hi there! 👋
 
 Welcome to my world of innovation at the intersection of electronics, cybersecurity, and DevOps! I'm a seasoned DevOps & DevSecOps Engineer with a deep passion for automating software pipelines and fortifying systems against cyber threats.
@@ -48,14 +57,6 @@ Welcome to my world of innovation at the intersection of electronics, cybersecur
 
 I thrive on designing and automating robust CI/CD pipelines and infrastructure as code deployments. My experience spans cloud-native environments, secure containerization, and implementing DevSecOps best practices. Let's collaborate to streamline your software delivery lifecycle and enhance system reliability.
 
-<!--
-
-## GitHub Stats 📈
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=resinder&show_icons=true&theme=dark)
-
--->
-
 ## Let's Connect! 🌐
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkans)
@@ -65,5 +66,8 @@ I thrive on designing and automating robust CI/CD pipelines and infrastructure a
 Let's connect and innovate in the realms of DevOps, cybersecurity, and artificial intelligence!
 
 ![Animated GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
+
+[![Avatar](https://avatars.githubusercontent.com/u/Resinder?v=4)](https://github.com/Resinder)
+
 
 Check out my homepage at [Srenity Online](https://www.srenity.online) - where even your pipeline being GREEN is cause for celebration!
